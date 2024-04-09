@@ -1,0 +1,26 @@
+.course-details-page {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.course-card {
+  width: 80%;
+  height: 400px;
+  display: flex;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.course-card-details {
+  padding: 20px;
+}
+
+.course-card-heading {
+  font-weight: bold;
+}
+
+.course-card-description {
+  font-weight: semiBold;
+  color: #475569;
+}
